@@ -13,12 +13,13 @@ This is a Pytorch implementation of "Time-Frequency Aware Graph Convolutional Ne
 
 # Run TFAGCN
 
-```
+```python
 python main.py --dataset Haggle
 ```
 
 # Run TFAGNN-B
 
-```
+```python
 python run.py --dataset wiki
 ```
+
